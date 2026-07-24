@@ -1,3 +1,10 @@
+---
+namespaces:
+  namespace1: [extension1]
+  namespace2: [extension8, extension9, extension10]
+  namespace4: [extension2, extension5, extension6]
+---
+
 # Hendrerit (.NET)
 
 Sed hendrerit commodo turpis, in aliquam metus pellentesque et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus velit sit amet venenatis sodales. Donec a enim eu mauris sollicitudin volutpat eu et arcu. Morbi sodales efficitur est, et egestas magna viverra efficitur. Morbi lorem leo, interdum eu ante nec, convallis pretium neque. Nam eros nisl, ultrices et blandit eu, placerat vel ipsum. Cras sapien justo, consectetur a odio vitae, convallis viverra quam. Nulla ex lacus, convallis et sodales eget, viverra non nisl. Vestibulum cursus porta pellentesque.

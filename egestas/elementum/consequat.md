@@ -1,3 +1,10 @@
+---
+namespaces:
+  namespace3: [extension3, extension4]
+  namespace4: [extension2, extension6]
+  namespace5: [extension7, extension11, extension12]
+---
+
 # Consequat C# language
 
 Vivamus quam nisl, iaculis nec libero eget, consequat semper mauris. Duis et egestas lacus. Cras rhoncus eu lectus a auctor. Integer porta fringilla ornare. Vivamus scelerisque tristique leo non tincidunt. Fusce non nibh in arcu blandit ultricies. Fusce vestibulum elementum ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla eu vulputate felis, quis accumsan ligula. Suspendisse eleifend, elit ac euismod bibendum, felis ipsum scelerisque orci, sit amet pharetra neque eros tempus nibh. Pellentesque scelerisque massa a tristique sollicitudin. In sollicitudin non urna ac sodales. Aliquam blandit magna et urna mollis dignissim.
