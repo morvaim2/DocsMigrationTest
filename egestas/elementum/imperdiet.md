@@ -1,5 +1,7 @@
 # Imperdiet amet ligula dolor
 
+![class diagram](images/ClassDiagram.png "class diagram")
+
 Ut pretium viverra leo quis egestas. Nam in rutrum diam, ac imperdiet magna. Nam vel fermentum sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam finibus est vitae diam sagittis rhoncus. Integer vulputate accumsan nisl et cursus. Nunc nec tempus dui. Ut ut urna at lacus viverra finibus a hendrerit enim. Ut eget egestas felis, non facilisis erat. Maecenas a magna bibendum, iaculis lorem eu, rhoncus neque. Sed at diam sed magna malesuada vulputate vel ut nisl. Etiam convallis laoreet augue ut condimentum.
 
 Vivamus lobortis quis nisi sit amet eleifend. Donec a dolor quis massa convallis faucibus sed at lorem. Praesent vulputate sollicitudin lorem in mollis. Quisque eget urna pellentesque, porttitor lacus et, laoreet nulla. Fusce ultrices nulla non est ullamcorper, quis laoreet enim condimentum. Sed semper orci a mi rutrum, ac egestas est porttitor. Etiam sagittis dapibus velit, in tincidunt ipsum semper nec. Morbi diam risus, rhoncus eu ligula id, mollis mattis massa. Nunc tincidunt purus semper mattis gravida. Integer condimentum massa et odio ornare fringilla.
