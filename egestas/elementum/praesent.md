@@ -9,3 +9,4 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 Donec vel semper nulla. Aenean accumsan ut libero vel rhoncus. Praesent ut faucibus purus. Donec tristique justo sit amet nisi consectetur, porta faucibus risus sollicitudin. Duis mollis id arcu ut dictum. Nam dignissim leo nibh, vel condimentum eros dapibus non. Aenean tristique tellus non facilisis tempor. Aenean nulla nunc, posuere sit amet risus eget, venenatis congue purus.
 
 ![class diagram](images/ClassDiagram.png "class diagram")
+![class diagram](images/ClassDiagram.png)

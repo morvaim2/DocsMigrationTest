@@ -7,3 +7,4 @@ Donec mattis tincidunt justo, ac consectetur nisi ultrices at. Aliquam erat volu
 Quisque sit amet ultricies risus. Donec vel purus quis ante facilisis rhoncus. Morbi vestibulum nisi sollicitudin ullamcorper dignissim. Nunc id volutpat lorem. Cras id diam sed ante pretium pellentesque vel sit amet odio. Nulla vel ligula accumsan, euismod tortor et, vehicula nulla. Fusce sem augue, feugiat aliquam dictum sit amet, maximus sit amet magna. Vestibulum accumsan, orci sit amet luctus molestie, neque massa porttitor lorem, vel hendrerit enim quam ac neque.
 
 ![class diagram](images/ClassDiagram.png "class diagram")
+![class diagram](images/ClassDiagram.png)

@@ -10,6 +10,7 @@ namespaces:
 Vivamus quam nisl, iaculis nec libero eget, consequat semper mauris. Duis et egestas lacus. Cras rhoncus eu lectus a auctor. Integer porta fringilla ornare. Vivamus scelerisque tristique leo non tincidunt. Fusce non nibh in arcu blandit ultricies. Fusce vestibulum elementum ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla eu vulputate felis, quis accumsan ligula. Suspendisse eleifend, elit ac euismod bibendum, felis ipsum scelerisque orci, sit amet pharetra neque eros tempus nibh. Pellentesque scelerisque massa a tristique sollicitudin. In sollicitudin non urna ac sodales. Aliquam blandit magna et urna mollis dignissim.
 
 ![class diagram](images/ClassDiagram.png "class diagram")
+![class diagram](images/ClassDiagram.png)
 
 Vestibulum aliquet quam eget sapien feugiat malesuada. Sed nec ex in libero auctor vestibulum. Suspendisse potenti. Morbi bibendum lorem a mauris feugiat, imperdiet gravida diam lacinia. Maecenas lobortis luctus porta. Curabitur et dapibus nulla, quis ultrices orci. Nunc massa augue, gravida vitae leo vitae, blandit lacinia ipsum. Donec eu volutpat ipsum. Aenean at justo aliquam, convallis purus eu, sodales elit.
 

@@ -7,3 +7,4 @@ Sed hendrerit congue velit, eget venenatis libero hendrerit eget. Pellentesque i
 Donec gravida euismod pellentesque. Etiam non arcu nibh. Nullam pellentesque venenatis est, ut finibus lectus eleifend a. Nam nec lorem id arcu ornare porta vitae vestibulum sem. Nullam id eros sit amet augue elementum elementum. Maecenas aliquam, tortor aliquam ornare vehicula, diam libero laoreet turpis, id tincidunt libero tellus auctor augue. Mauris congue velit commodo lorem fringilla, nec consectetur leo congue. Quisque ac ante a orci dapibus pharetra porttitor ac eros.
 
 ![class diagram](images/ClassDiagram.png "class diagram")
+![class diagram](images/ClassDiagram.png)
